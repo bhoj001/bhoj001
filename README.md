@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Bhoj Karki, a ✨ _Full Stack Developer_ ✨, who loves to dig into codes.
+I'm Bhoj Karki, a ✨ _Full Stack Engineer and AI engineer_ ✨, who loves to dig into codes.
 
 - 🔭 I’m currently working on various AI/ML related research project with topic named as "Assessing Emotive Tasks for User Identification in VR Using Deep Learning" 
 - 🌱 I’m constantly refreshing my knowledge on cloud, DSA, DB and AI/ML related topic.
